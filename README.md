@@ -13,8 +13,9 @@ An introduction to Pj and Dan, past experience and how we got here.
 
 ## Myths about startup life
  - Being your own boss is easy
- - You get to make yoru own hours
+ - You get to make your own hours
  - You make all of your own decisions
+ - It's not all video games and ping-pong
  - Husband and wife teams always fail
  - ...
 
